@@ -7,7 +7,7 @@ class App extends Component {
         super(props);
         this.yourname = "Toby";
         this.state={}; //Default values are defined when th props are loaded
-        
+
     }
 
     sayHello(name){
