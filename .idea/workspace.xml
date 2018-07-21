@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c46efa3b-38ff-421d-9fdd-bb97887ef028" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Project-2/component-basic/src/App.js" afterPath="$PROJECT_DIR$/Project-2/component-basic/src/App.js" />
+      <change beforePath="$PROJECT_DIR$/Project-3/props-state/src/App.js" afterPath="$PROJECT_DIR$/Project-3/props-state/src/App.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -40,7 +40,7 @@
       <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Project-2/component-basic/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
+            <state relative-caret-position="182">
               <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
@@ -50,10 +50,22 @@
         </entry>
       </file>
       <file leaf-file-name="App.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Project-4/component-life-cycle/src/App.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="356">
+              <caret line="28" column="55" lean-forward="false" selection-start-line="28" selection-start-column="55" selection-end-line="28" selection-end-column="55" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Project-3/props-state/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="30" column="52" lean-forward="false" selection-start-line="30" selection-start-column="52" selection-end-line="30" selection-end-column="52" />
+            <state relative-caret-position="884">
+              <caret line="37" column="54" lean-forward="false" selection-start-line="37" selection-start-column="54" selection-end-line="37" selection-end-column="54" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -91,6 +103,7 @@
         <option value="$PROJECT_DIR$/Project-1/hello_world/src/Intro.js" />
         <option value="$PROJECT_DIR$/Project-2/component-basic/src/App.js" />
         <option value="$PROJECT_DIR$/Project-3/props-state/src/App.js" />
+        <option value="$PROJECT_DIR$/Project-4/component-life-cycle/src/App.js" />
       </list>
     </option>
   </component>
@@ -104,12 +117,12 @@
     <handled-path value="$PROJECT_DIR$/Project-1/hello_world/node_modules" />
     <handled-path value="$PROJECT_DIR$/Project-2/component-basic/node_modules" />
     <handled-path value="$PROJECT_DIR$/Project-3/props-state/node_modules" />
+    <handled-path value="$PROJECT_DIR$/Project-4/component-life-cycle/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="903" />
-    <option name="y" value="51" />
-    <option name="width" value="1057" />
-    <option name="height" value="938" />
+    <option name="x" value="708" />
+    <option name="width" value="1194" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -126,7 +139,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -138,25 +150,26 @@
             <path>
               <item name="ReactJS_FirebaseAuth_Projects-Udemy" type="b2602c69:ProjectViewProjectNode" />
               <item name="ReactJS_FirebaseAuth_Projects-Udemy" type="462c0819:PsiDirectoryNode" />
-              <item name="Project-2" type="462c0819:PsiDirectoryNode" />
+              <item name="Project-4" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ReactJS_FirebaseAuth_Projects-Udemy" type="b2602c69:ProjectViewProjectNode" />
               <item name="ReactJS_FirebaseAuth_Projects-Udemy" type="462c0819:PsiDirectoryNode" />
-              <item name="Project-2" type="462c0819:PsiDirectoryNode" />
-              <item name="component-basic" type="462c0819:PsiDirectoryNode" />
+              <item name="Project-4" type="462c0819:PsiDirectoryNode" />
+              <item name="component-life-cycle" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ReactJS_FirebaseAuth_Projects-Udemy" type="b2602c69:ProjectViewProjectNode" />
               <item name="ReactJS_FirebaseAuth_Projects-Udemy" type="462c0819:PsiDirectoryNode" />
-              <item name="Project-2" type="462c0819:PsiDirectoryNode" />
-              <item name="component-basic" type="462c0819:PsiDirectoryNode" />
+              <item name="Project-4" type="462c0819:PsiDirectoryNode" />
+              <item name="component-life-cycle" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -191,18 +204,20 @@
       <option name="presentableId" value="Default" />
       <updated>1529340374204</updated>
       <workItem from="1529340376508" duration="3429000" />
-      <workItem from="1531906100676" duration="11531000" />
+      <workItem from="1531906100676" duration="13474000" />
+      <workItem from="1532021649179" duration="3293000" />
+      <workItem from="1532201839562" duration="2682000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14960000" />
+    <option name="totallyTimeSpent" value="22878000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="903" y="51" width="1057" height="938" extended-state="0" />
+    <frame x="708" y="0" width="1194" height="1038" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5582291" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.11934552" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -232,6 +247,104 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Project-1/hello_world/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="26" lean-forward="false" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project-1/hello_world/src/Intro.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project-2/component-basic/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project-3/props-state/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="37" column="54" lean-forward="false" selection-start-line="37" selection-start-column="54" selection-end-line="37" selection-end-column="54" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project-1/hello_world/src/Header.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project-4/component-life-cycle/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1170">
+          <caret line="47" column="36" lean-forward="false" selection-start-line="47" selection-start-column="36" selection-end-line="47" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project-1/hello_world/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="26" lean-forward="false" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project-1/hello_world/src/Intro.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project-2/component-basic/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project-1/hello_world/src/Header.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project-3/props-state/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="962">
+          <caret line="37" column="54" lean-forward="false" selection-start-line="37" selection-start-column="54" selection-end-line="37" selection-end-column="54" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Project-1/hello_world/src/App.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="78">
@@ -291,9 +404,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Project-3/props-state/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="37" column="54" lean-forward="false" selection-start-line="37" selection-start-column="54" selection-end-line="37" selection-end-column="54" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Project-2/component-basic/src/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
+        <state relative-caret-position="182">
           <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
@@ -301,10 +424,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Project-3/props-state/src/App.js">
+    <entry file="file://$PROJECT_DIR$/Project-4/component-life-cycle/src/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="30" column="52" lean-forward="false" selection-start-line="30" selection-start-column="52" selection-end-line="30" selection-end-column="52" />
+        <state relative-caret-position="356">
+          <caret line="28" column="55" lean-forward="false" selection-start-line="28" selection-start-column="55" selection-end-line="28" selection-end-column="55" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>

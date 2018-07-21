@@ -30,14 +30,18 @@ class Parent extends Component{
         super(props);
         //Defines the default state of the component
         this.state={
-
+            cars: ['s-Audi','s-City','s-Honda', 's-BMW']
         };
+        // this.handleClick=this.handleClick.bind();
+    }
+    handleClick(){
+        this.setState({cars: this.state.cars.reverse()})
     }
     render(){
         return(
             <div>
-                <h2>I am moving into Project 3 of React JS</h2>
-                <Cars msg="This is a Cars message" model="19028" Coolcars={this.props.cars}/>
+                <h2 onClick={this.handleClick.bind(this)}>I am moving into Project 3 of React JS</h2>
+                <Cars msg="This is a Cars message" model="19028" Coolcars={this.state.cars}/>
             </div>
         );
     }
