@@ -43,6 +43,12 @@ class Body extends Component{
 }
 
 class Numbers extends Component{
+
+    componentDidMount(){
+        
+    }
+
+
     render(){
         return(
             <div>
