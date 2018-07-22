@@ -51,8 +51,8 @@
       <file leaf-file-name="App.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Project-4/component-life-cycle/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="616">
-              <caret line="47" column="8" lean-forward="false" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
+            <state relative-caret-position="742">
+              <caret line="67" column="5" lean-forward="true" selection-start-line="67" selection-start-column="5" selection-end-line="67" selection-end-column="5" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -119,8 +119,8 @@
     <handled-path value="$PROJECT_DIR$/Project-4/component-life-cycle/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="708" />
-    <option name="width" value="1194" />
+    <option name="x" value="953" />
+    <option name="width" value="949" />
     <option name="height" value="1038" />
   </component>
   <component name="ProjectView">
@@ -205,15 +205,15 @@
       <workItem from="1529340376508" duration="3429000" />
       <workItem from="1531906100676" duration="13474000" />
       <workItem from="1532021649179" duration="3293000" />
-      <workItem from="1532201839562" duration="3146000" />
+      <workItem from="1532201839562" duration="4900000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23342000" />
+    <option name="totallyTimeSpent" value="25096000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="708" y="0" width="1194" height="1038" extended-state="0" />
+    <frame x="953" y="0" width="949" height="1038" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.11934552" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -425,8 +425,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Project-4/component-life-cycle/src/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="47" column="8" lean-forward="false" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
+        <state relative-caret-position="742">
+          <caret line="67" column="5" lean-forward="true" selection-start-line="67" selection-start-column="5" selection-end-line="67" selection-end-column="5" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>

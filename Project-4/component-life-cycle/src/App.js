@@ -45,8 +45,28 @@ class Body extends Component{
 class Numbers extends Component{
 
     componentDidMount(){
-        
+        console.log("ComponentDidMount called");
     }
+    componentWillMount(){
+        console.log("ComponentWillMount called");
+    }
+    componentWillReceiveProps(newProps){
+        console.log("ComponentWillReceiveProps called");
+    }
+    shouldComponentUpdate(newProps, nextState){
+        console.log("shouldComponentUpdate called");
+        return true;
+    }
+    componentWillUpdate(newProps, nextState){
+        console.log("componentWillUpdate called");
+    }
+    componentDidUpdate(newProps, nextState){
+        console.log("componentDidUpdate called");
+    }
+    componentWillUnmount(){
+        console.log('componentWillUnmount called');
+    }
+
 
 
     render(){
