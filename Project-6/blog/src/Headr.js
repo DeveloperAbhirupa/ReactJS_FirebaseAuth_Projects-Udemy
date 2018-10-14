@@ -4,7 +4,7 @@ class Headr extends Component{
   render(){
     return(
       <div>
-      <Headr className="masthead headerStyle" >s
+      <header className="masthead headerStyle" >s
         <div className="overlay"></div>
         <div className="container">
           <div className="row">
@@ -16,7 +16,7 @@ class Headr extends Component{
             </div>
           </div>
         </div>
-      </Headr>
+      </header>
       </div>
     ) ;
   }
