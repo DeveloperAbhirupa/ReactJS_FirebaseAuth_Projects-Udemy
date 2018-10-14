@@ -35,4 +35,4 @@ class Navbar extends Component{
   }
 }
 
-export default navbar;
+export default Navbar;
